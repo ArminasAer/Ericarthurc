@@ -2,7 +2,7 @@
 -------------------------
 OS: Windows 10 | Ubuntu 20.04.2 LTS
 Location: California, USA
-Languages: JS, TS, Python, C#, Go, Rust
+Languages: JS, TS, Go, Python, C#, Rust
 ```
 
 <!--
