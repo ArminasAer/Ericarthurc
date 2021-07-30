@@ -5,6 +5,6 @@ Location: California, USA
 Languages: JS, TS, Go, Python, C#, Rust
 ```
 
-![](https://github-readme-stats.vercel.app/api?username=ericarthurc&show_icons=true&theme=midnight-purple&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericarthurc&hide=css,html&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api?username=ericarthurc&show_icons=true&theme=dark&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericarthurc&hide=css,html&theme=dark)
 
