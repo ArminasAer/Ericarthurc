@@ -2,7 +2,7 @@
 -------------------------
 OS: Windows 10 | Ubuntu 20.04.2 LTS
 Location: California, USA
-Languages: JS, TS, Go, Python, Nim, Rust
+Languages: JS, TS, Go, Nim, Rust, Python
 Focus: Full stack web development
 ```
 
