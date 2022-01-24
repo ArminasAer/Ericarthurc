@@ -3,7 +3,10 @@
 OS: Windows 11 | Ubuntu 20.04.3 LTS
 Location: California, USA
 Languages: JS, TS, Go, Nim, Rust, Python
-Frameworks: React, Vue, MongoDB, Postgres, Fiber, Jester, Prologue, Axum
+Technologies:
+  Http: Express, Koa, Fiber, Jester, Prologue, Axum
+  Frontend: React, Vue
+  Database: MongoDB, Postgres
 Focus: Full stack web development
 ```
 
