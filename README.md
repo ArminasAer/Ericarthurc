@@ -1,5 +1,5 @@
 ```ts
--------------------------
+-----------------------------------------------------
 OS: Windows 11 | Ubuntu 20.04.3 LTS
 Location: California, USA
 Languages: JS, TS, Go, Rust, Nim, Python
