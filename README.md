@@ -1,6 +1,6 @@
-```ts
+```fs
 -----------------------------------------------------
-OS: Windows 11 | Ubuntu 20.04.3 LTS
+OS: Windows 11 | Ubuntu 22.04.1 LTS
 Location: California, USA
 Languages: JS, TS, Go, Rust, Nim
 Technologies:
