@@ -6,7 +6,7 @@ Languages: JS, TS, Go, Rust, Nim
 Technologies:
   Http: Express, Koa, Fiber, Axum, Jester, Prologue
   Frontend: React, Vue, Vanilla
-  Database: MongoDB, Postgres
+  Database: MongoDB, Postgres, Redis
 Focus: Full stack web development
 ```
 ![stats](https://github-readme-stats.vercel.app/api?username=ericarthurc&show_icons=true&theme=transparent)
