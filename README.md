@@ -9,4 +9,4 @@ Technologies:
   Database: MongoDB, Postgres
 Focus: Full stack web development
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericarthurc&hide=css,html,jinja)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericarthurc&hide=css,html,jinja&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
