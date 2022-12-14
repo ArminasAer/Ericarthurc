@@ -5,7 +5,7 @@ Location: California, USA
 Languages: Go, TS, JS, Rust, Nim
 Technologies:
   Http: Echo, Express, Koa, Axum, Jester, Prologue
-  Frontend: React, Vue, Vanilla
+  Frontend: React, SolidJS, Vue, Vanilla
   Database: MongoDB, Postgres, Redis
 Focus: Full stack web development
 ```
