@@ -9,6 +9,6 @@ Technologies:
   Database: MongoDB, Postgres, Redis
 Focus: Full stack web development
 ```
-![stats](https://github-readme-stats.vercel.app/api?username=ericarthurc&show_icons=true&theme=transparent)
+![stats](https://readmestats.999857.xyz/api?username=ericarthurc&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericarthurc&hide=css,scss,html,jinja&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=ericarthurc&hide=css,scss,html,jinja&theme=transparent)
