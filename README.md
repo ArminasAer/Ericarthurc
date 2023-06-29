@@ -1,7 +1,7 @@
 ```fs
 -----------------------------------------------------
 OS: Windows 11 | Ubuntu 22.04.1 LTS
-Location: California, USA
+Location: USA
 Languages: TS, JS, Rust, Go, Nim
 Technologies:
   Http: Echo, Express, Koa, Axum, Jester, Prologue
@@ -9,6 +9,6 @@ Technologies:
   Database: MongoDB, Postgres, Redis
 Focus: Full stack web development
 ```
-![stats](https://readmestats.999857.xyz/api?username=ericarthurc&show_icons=true&theme=transparent)
+![stats](https://readmestats.999857.xyz/api?username=arminasaer&show_icons=true&theme=transparent)
 
-![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=ericarthurc&hide=css,scss,html,jinja&theme=transparent)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=arminasaer&hide=css,scss,html,jinja&theme=transparent)
