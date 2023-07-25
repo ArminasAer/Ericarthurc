@@ -2,7 +2,7 @@
 -----------------------------------------------------
 OS: Windows 11 | Ubuntu 22.04.1 LTS
 Location: USA
-Languages: TS, JS, Rust, Go, Nim
+Languages: JS (TS), Go, Rust, Nim
 Technologies:
   Http: Echo, Express, Koa, Axum, Jester, Prologue
   Frontend: React, SolidJS, Svelte, Vue, Vanilla
