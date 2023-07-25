@@ -9,6 +9,6 @@ Technologies:
   Database: MongoDB, Postgres, Redis
 Focus: Full stack web development
 ```
-![stats](https://readmestats.999857.xyz/api?username=arminasaer&show_icons=true&theme=transparent)
+![stats](https://readmestats.999857.xyz/api?username=arminasaer&show_icons=true&theme=dark)
 
-![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=arminasaer&hide=css,scss,html,jinja&theme=transparent)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=arminasaer&hide=css,scss,html,jinja&theme=dark)
