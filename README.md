@@ -1,14 +1,10 @@
-```fs
------------------------------------------------------
-OS: Windows 11 | Ubuntu 23.04
-Location: USA
-Languages: js (ts), go, rust, nim
-Technologies:
-  Http: net/http, echo, express, koa, axum, prologue
-  Frontend: react, solid, svelte, vue, vanilla
-  Database: postgres. mongo, redis
-Focus: full stack web development
-```
-![stats](https://readmestats.999857.xyz/api?username=arminasaer&show_icons=true&theme=dark)
+## AerPhoinix
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminasaer&layout=donut&hide=css,scss,html,jinja&theme=dark)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,css,deno,discord,docker,electron,github,git,go,html,htmx,js,linux,md,mongodb,nginx,nim,nodejs,pnpm,postgres,powershell,prisma,raspberrypi,react,redis,redux,rust,sass,solidjs,svelte,ts,ubuntu,vite,vscode,webpack,windows" />
+  </a>
+</p>
+
+![stats](https://readmestats.999857.xyz/api?username=aerphoinix&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerphoinix&layout=donut&hide=css,scss,html,jinja&theme=dark)
