@@ -1,4 +1,4 @@
-## AerPhoinix
+## Velesarix
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -6,5 +6,5 @@
   </a>
 </p>
 
-![stats](https://readmestats.999857.xyz/api?username=aerphoinix&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerphoinix&layout=donut&hide=css,scss,html,jinja&theme=dark)
+![stats](https://readmestats.999857.xyz/api?username=velesarix&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velesarix&layout=donut&hide=css,scss,html,jinja&theme=dark)
