@@ -7,4 +7,4 @@
 </p>
 
 ![stats](https://readmestats.999857.xyz/api?username=ericarthurc&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericarthurc&layout=donut&hide=css,scss,html,jinja&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericarthurc&layout=compact&hide=css,scss,html,jinja&theme=dark)
